@@ -1,0 +1,7 @@
+pytesseract
+Pillow
+pyautogui
+pyperclip
+tkinter
+openai
+keyboard
