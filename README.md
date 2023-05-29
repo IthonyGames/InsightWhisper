@@ -13,6 +13,7 @@ The AI Assistant uses optical character recognition (OCR) to extract text from e
 - Role customization: Customize the role of the AI Assistant in the conversation.
 
 ## Installation
+*OPENAI API NEEDED*
 1. Clone the repository: `git clone https://github.com/IthonyGames/InsightWhisper.git`
 2. Navigate to the project directory: `cd insightwhisper`
 3. Install the required libraries: `pip install -r requirements.txt`
